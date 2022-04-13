@@ -1,6 +1,10 @@
 # Input-output-RacingGame
 ## Jordan Ross Present:
 ## Microbit Racing Game
+
+## Note! 
+You can find the scene and the assets of the Unity game in the Master Branch!
+
 ### First Topic What is it and Why?
 
 This repository is about the BO assignment of the input output project of this period. after looking trough out differnt options for this project the special input/output. I decided on a Microbit! i chose the microbit because i had easy access too the microbit. With the microbit, I am Working on a racing game using the motion sensors that are included in the microbit. I however had a few other options in mind that i wanted to work with instead of the microbit. for example:
