@@ -18,10 +18,6 @@ public class Steering : MonoBehaviour
     {
         ReadMicrobit = GetComponent<ReadMicrobit>();
     }
-    //get component steering in microbit 
-    //set x and y value in steering
-    //buttons
-    //search get component on yt
 
     private void Start()
     {
@@ -29,7 +25,7 @@ public class Steering : MonoBehaviour
         Vector3 tilt = Input.acceleration;
 
         if (isFlat)
-            tilt = Quaternion.Euler(90, 0, 90) * tilt;
+            tilt = Quaternion.Euler(0, 0, 90) * tilt;
         Debug.Log("tilt");
         Debug.DrawRay(transform.position + Vector3.up, tilt);
 
@@ -40,22 +36,18 @@ public class Steering : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
-        rigidbody.AddForce(transform.right * 200); //speed of car
-        rigidbody.useGravity = true; //gravity
-
-        transform.rotation = Quaternion.Euler(0, ReadMicrobit.yAxis * 0.5f, 0); //steering rotation force on y-axis
-        /*
-        if (Input.GetKey(KeyCode.A))
+        if (ReadMicrobit.ButtonPressed)
         {
-            rigidbody.velocity = transform.forward * Speed;
+            rigidbody.AddForce(transform.right * 75); //speed of car
+
+        }
+        if (ReadMicrobit.ButtonPressedB)
+        {
+            rigidbody.AddForce(transform.right * -50); //speed of car
+
         }
 
-        if (Axis <= 200)
-        {
-            transform.position = new Vector3(0,Axis,0) * Time.deltaTime;
-        }
-            //steering.AddForce(Input.acceleration);
-        */
-        //if (ReadMicrobit.yAxis != null)
+        transform.rotation = Quaternion.Euler(0, ReadMicrobit.xAxis * 0.5f, 0); //steering rotation force on y-axis
+       
     }
 }
