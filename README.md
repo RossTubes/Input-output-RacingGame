@@ -21,3 +21,27 @@ For this projected I needed software programming languages, a microbit device, u
 
 This is what i needed for my projedct but the big problem was the lack of time and resources. I had allot of trouble finding any information about connecting Unity to the microbit, eventually i asked teachers for help and they recomended I use serializefield data to find the device in the C# code and connect it with unity. This way i could use the motion sensors that are in the microbit itself to make my own racing game controller. This was a perfect example of the Input/Output project. 
 
+Now that i knew how to do it, I started working on the serializefield connection from the microbit to unity using python code at first. 
+
+
+#Working out the idea
+
+So i knew that i wanted to make a car controller with the microbit but now i needed to figure out what type of game I watned it to be, and to be honest my ambition was too big for the project time I had. First i made a simple original car in unity using 3D objects and messing them togheter. I also wanted to add an AI in the game to race against. but that didn't work out because i had to little time.
+
+The disign idea and requirements.
+
+* Screen with input display of the microbit
+* X-axis and Y-axis reading
+* Steering mechanic
+* Button input
+* plain field with road
+* A car in unity
+* Making a design document
+
+I made all these things myself using research and creativity, this way it didn't cost me any mony for special tutorials or Unity asset packages. So far i made the trello page and the Unity scene you can find that above in the github.
+
+#User Test
+
+Daniel Nijkamp
+
+Byron
