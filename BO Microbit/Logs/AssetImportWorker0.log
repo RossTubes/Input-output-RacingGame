@@ -37,3 +37,54 @@ Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBle
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56028
 Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004245 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 65.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.976 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001832 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.157 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1543.
+Total: 4.910700 ms (FindLiveObjects: 0.408400 ms CreateObjectMapping: 0.163300 ms MarkObjects: 4.153300 ms  DeleteObjects: 0.182000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/scripts/Steering.cs
+  artifactKey: Guid(8711f5b33977d824f8ae21b5db1c30de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Steering.cs using Guid(8711f5b33977d824f8ae21b5db1c30de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acab8665c9ea38643f6568883036fd81') in 0.064300 seconds
+  Import took 0.069710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.090685 seconds.
+  path: Assets/scripts/ReadMicrobit.cs
+  artifactKey: Guid(4e578312e8c2f8a4694ff2c4556d7579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/ReadMicrobit.cs using Guid(4e578312e8c2f8a4694ff2c4556d7579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62ab6c5e489a4f4cc2dec826bfa72040') in 0.021069 seconds
+  Import took 0.024799 seconds .
+
