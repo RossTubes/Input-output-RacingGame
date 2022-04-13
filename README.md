@@ -54,10 +54,11 @@ What can I make better for the game?
 
 #Byron van Herrewaarden
 
-Did the controls work properly?
+* Did the controls work properly?
+  yes, but because of the lag it hinderd the experience
 
-What more can I add to the game?
+* What more can I add to the game?
+  More mechanics like enemy's AI or ramps and more terrain hazzards
 
-What can I make better for the game?
-
-
+* What should I improve for the game?
+  The lag issue and maybe the buildings and surroundings.
