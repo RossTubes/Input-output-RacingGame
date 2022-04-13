@@ -41,16 +41,17 @@ The disign idea and requirements.
 I made all these things myself using research and creativity, this way it didn't cost me any mony for special tutorials or Unity asset packages. So far i made the trello page and the Unity scene you can find that above in the github.
 
 
-
 #User Test
 
 #Daniel Nijkamp
 
-Did the controls work properly?
+* Did the controls work properly?
+: Yes but a bit clitchy 
+* What more can I add to the game?
+: an AI enemy to race against
 
-What more can I add to the game?
-
-What can I make better for the game?
+*  What should I improve for the game?
+: maybe make it a bit less laggy
 
 #Byron van Herrewaarden
 
@@ -62,3 +63,10 @@ What can I make better for the game?
 
 * What should I improve for the game?
   : The lag issue and maybe the buildings and surroundings.
+
+User Test Byron van Herrewaarden:
+https://user-images.githubusercontent.com/70896941/163175795-15e8d172-5b15-4d22-ba1a-b0b3c6f528e3.mov
+
+User Test Daniel Nijkamp:
+https://user-images.githubusercontent.com/70896941/163175964-4a32d059-5314-4b10-b6d4-fa281aefc7cd.mov
+
