@@ -2,8 +2,7 @@
 ## Jordan Ross Present:
 ## Microbit Racing Game
 
-## Note! 
-You can find the scene and the assets of the Unity game in the Master Branch!
+## Note! You can find the scene and the assets of the Unity game in the Master Branch!
 
 ### First Topic What is it and Why?
 
