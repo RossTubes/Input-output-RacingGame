@@ -38,15 +38,43 @@ The disign idea and requirements.
 * A car in unity
 * Making a design document
 
-I made all these things myself using research and creativity, this way it didn't cost me any mony for special tutorials or Unity asset packages. So far i made the trello page and the Unity scene you can find that above in the github.
+I made all these things myself using research and creativity, this way it didn't cost me any money for special tutorials or Unity asset packages. So far I made the trello page and the Unity scene you can find that below in the github readme. So now i knew what I needed so it was time to start with the development!
+
+#Development
+
+eventually I got the microbit working and made a succesfull game product. Using my plan and going in head first! But during this project I got coivd-19 and that cost me two full weeks of time that i couldn't work on my project. Still I made it work. Using my own planning on different stages of the development.
+
+First:
+* Getting the microbit working with python
+* then researching on serialised fields 
+* using serialised field in C# to connect the microbit
+* connection the python code so it can function in C#
+* making a simple car model using 3D objects
+* making a simple playfield
+* reading the X and Y axis in unity
+* making the car turn and move
+* adding Buttons in the microbit python code
+* connection the buttons in C#
+* making buildings in the scene
 
 
-#User Test
+##User Tests
+
+I chose two friends who showed interest in my game during the building process to test my game, I focused on making a video of them testing my games. They mostly enjoyed the game but they had a little trouble getting used to the controles. You can see the video's of the user test below. 
+
+I focussed on:
+
+* The documentation
+* Making a video using my phone
+* I will show the video in my presentation
+* I noted their questions in the readme below
+* Plannend some questions to ask.
 
 #Daniel Nijkamp
 
 * Did the controls work properly?
 : Yes but a bit clitchy 
+
 * What more can I add to the game?
 : an AI enemy to race against
 
