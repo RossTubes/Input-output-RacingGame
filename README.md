@@ -40,8 +40,24 @@ The disign idea and requirements.
 
 I made all these things myself using research and creativity, this way it didn't cost me any mony for special tutorials or Unity asset packages. So far i made the trello page and the Unity scene you can find that above in the github.
 
+
+
 #User Test
 
-Daniel Nijkamp
+#Daniel Nijkamp
 
-Byron
+Did the controls work properly?
+
+What more can I add to the game?
+
+What can I make better for the game?
+
+#Byron van Herrewaarden
+
+Did the controls work properly?
+
+What more can I add to the game?
+
+What can I make better for the game?
+
+
