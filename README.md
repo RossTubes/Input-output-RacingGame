@@ -27,7 +27,7 @@ This is what i needed for my projedct but the big problem was the lack of time a
 Now that i knew how to do it, I started working on the serializefield connection from the microbit to unity using python code at first. 
 
 
-#Working out the idea
+# Working out the idea
 
 So i knew that i wanted to make a car controller with the microbit but now i needed to figure out what type of game I watned it to be, and to be honest my ambition was too big for the project time I had. First i made a simple original car in unity using 3D objects and messing them togheter. I also wanted to add an AI in the game to race against. but that didn't work out because i had to little time.
 
@@ -43,11 +43,11 @@ The disign idea and requirements.
 
 I made all these things myself using research and creativity, this way it didn't cost me any money for special tutorials or Unity asset packages. So far I made the trello page and the Unity scene you can find that below in the github readme. So now i knew what I needed so it was time to start with the development!
 
-#Development
+# Development
 
 eventually I got the microbit working and made a succesfull game product. Using my plan and going in head first! But during this project I got coivd-19 and that cost me two full weeks of time that i couldn't work on my project. Still I made it work. Using my own planning on different stages of the development.
 
-First:
+# First:
 * Getting the microbit working with python
 * then researching on serialised fields 
 * using serialised field in C# to connect the microbit
@@ -61,7 +61,7 @@ First:
 * making buildings in the scene
 
 
-##User Tests
+## User Tests
 
 I chose two friends who showed interest in my game during the building process to test my game, I focused on making a video of them testing my games. They mostly enjoyed the game but they had a little trouble getting used to the controles. You can see the video's of the user test below. 
 
@@ -73,7 +73,7 @@ I focussed on:
 * I noted their questions in the readme below
 * Plannend some questions to ask.
 
-#Daniel Nijkamp
+# Daniel Nijkamp
 
 * Did the controls work properly?
 : Yes but a bit clitchy 
@@ -84,7 +84,7 @@ I focussed on:
 *  What should I improve for the game?
 : maybe make it a bit less laggy
 
-#Byron van Herrewaarden
+# Byron van Herrewaarden
 
 * Did the controls work properly?
   : yes, but because of the lag it hinderd the experience
