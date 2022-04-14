@@ -96,9 +96,9 @@ I focussed on:
   : The lag issue and maybe the buildings and surroundings.
 
 User Test Byron van Herrewaarden:
-https://user-images.githubusercontent.com/70896941/163175795-15e8d172-5b15-4d22-ba1a-b0b3c6f528e3.mov
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/70896941/163335343-49a14765-7d66-42de-bc32-60d82e3282a6.gif)
 
 User Test Daniel Nijkamp:
-https://user-images.githubusercontent.com/70896941/163175964-4a32d059-5314-4b10-b6d4-fa281aefc7cd.mov
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/70896941/163334883-848625f2-9e52-418f-b893-4cfb9028e2c7.gif)
