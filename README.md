@@ -8,7 +8,7 @@
 
 This repository is about the BO assignment of the input output project of this period. after looking trough out differnt options for this project the special input/output. I decided on a Microbit! i chose the microbit because i had easy access too the microbit. With the microbit, I am Working on a racing game using the motion sensors that are included in the microbit. I however had a few other options in mind that i wanted to work with instead of the microbit. for example:
 
-* The adruino 
+* The arduino 
 * Leap motion
 * Hand tracking computer camera
 
